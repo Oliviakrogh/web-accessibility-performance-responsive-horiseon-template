@@ -46,7 +46,16 @@ a {
     text-decoration: none;
 }
 
-p {
+a:focus-visible {
+    outline: 3px solid #ffffff;
+    outline-offset: 4px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {                         
     font-size: 16px;
 }
 
