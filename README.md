@@ -766,13 +766,14 @@ Du kan bruge:
 Notér gerne resultaterne i en lille tabel.
 
 | Billede                            | Format | Dimensioner | Filstørrelse | Relevant at optimere? |
-| brand-awareness.png                | PNG    | ----------: | 63 KB        | nej                   |
-| `search-engine-optimization.jpg`   | JPEG   |             | 14.9 MB      |                       |
-| `online-reputation-management.jpg` | JPEG   |             | 6.7 MB       |                       |
-| `social-media-marketing.jpg`       | JPEG   |             | 14.9 M       |                       |
-| `cost-management`.                 | PNG    |             | 41 KB        |                       |
-| `digital-marketing-meeting`.       | JPEG   |             | 14.2 MB      |                       |
-| `lead-generation.png`.             | PNG    |             | 40 KB.       |                       |
+| brand-awareness.png                | PNG    |1000x1000    | 63 KB        | nej                   |
+| `lead-generation.png`.             | PNG    |1000x1000    | 40 KB        | nej                   |
+| `cost-management`.                 | PNG    |1000x1000    | 41 KB        | nej                   |
+| `search-engine-optimization.jpg`   | JPEG   |7360×4912    | 14.9 MB      | Ja                    |
+| `online-reputation-management.jpg` | JPEG   |4404×2877    | 6.7 MB       | ja                    |
+| `social-media-marketing.jpg`       | JPEG   |5000×3451    | 14.9 M       | ja                    |
+| `digital-marketing-meeting`.       | JPEG   |8688x5792    | 14.2 MB      | ja                    |
+
 
 ---
 
