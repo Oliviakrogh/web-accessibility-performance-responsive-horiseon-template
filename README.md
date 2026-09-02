@@ -716,7 +716,7 @@ Brug samme indstillinger ved før- og eftermålingen.
 Notér:
 
 ```text
-Performance før optimering: 75
+Performance før optimering: 100
 ```
 
 > Performance-scoren kan variere lidt mellem målinger. Brug derfor samme browser, samme Lighthouse-indstillinger og så vidt muligt samme testforhold ved før- og eftermålingen.
@@ -766,10 +766,13 @@ Du kan bruge:
 Notér gerne resultaterne i en lille tabel.
 
 | Billede                            | Format | Dimensioner | Filstørrelse | Relevant at optimere? |
-| ---------------------------------- | ------ | ----------: | -----------: | --------------------- |
-| `search-engine-optimization.jpg`   |        |             |              |                       |
-| `online-reputation-management.jpg` |        |             |              |                       |
-| `social-media-marketing.jpg`       |        |             |              |                       |
+| brand-awareness.png                | PNG    | ----------: | 63 KB        | nej                   |
+| `search-engine-optimization.jpg`   | JPEG   |             | 14.9 MB      |                       |
+| `online-reputation-management.jpg` | JPEG   |             | 6.7 MB       |                       |
+| `social-media-marketing.jpg`       | JPEG   |             | 14.9 M       |                       |
+| `cost-management`.                 | PNG    |             | 41 KB        |                       |
+| `digital-marketing-meeting`.       | JPEG   |             | 14.2 MB      |                       |
+| `lead-generation.png`.             | PNG    |             | 40 KB.       |                       |
 
 ---
 
